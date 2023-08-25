@@ -1,6 +1,6 @@
 # Chess-AI-companion
 Chess AI
-This Python code is this respository aims to ddvelop a Chess Artificial Algorithm capable if defeating a human opposition. It utilizes the NegaMax Algorithm with Alpha-beta prunning.
+This Python code is this respository aims to develop a Chess Artificial Algorithm capable if defeating a human opposition. It utilizes the NegaMax Algorithm with Alpha-beta prunning.
 ## Negamax Algorithm
 Negamax is a variation of the minimax algorithm  deployed in two-player turn based games like chess. The Negamax aims for simplicity as it does not take into account the distinguishing effect between the minimizing and the maximizing player.
 ## Minmax Algorithm
